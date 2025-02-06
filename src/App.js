@@ -31,7 +31,7 @@ export default function App() {
 	return (
 		<>
 			<header>
-				<img src="logo copy.svg" alt="React logo" />
+				<img src="logo.svg" alt="React logo" />
 				<div>
 					<h1>Tabs using React.js</h1>
 					<p>
