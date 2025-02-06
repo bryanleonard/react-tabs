@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rreact-tabs/static/css/main.15904aae.css",
-    "main.js": "/rreact-tabs/static/js/main.34452035.js",
-    "index.html": "/rreact-tabs/index.html",
-    "main.15904aae.css.map": "/rreact-tabs/static/css/main.15904aae.css.map",
-    "main.34452035.js.map": "/rreact-tabs/static/js/main.34452035.js.map"
+    "main.css": "/react-tabs/static/css/main.15904aae.css",
+    "main.js": "/react-tabs/static/js/main.34452035.js",
+    "index.html": "/react-tabs/index.html",
+    "main.15904aae.css.map": "/react-tabs/static/css/main.15904aae.css.map",
+    "main.34452035.js.map": "/react-tabs/static/js/main.34452035.js.map"
   },
   "entrypoints": [
     "static/css/main.15904aae.css",
