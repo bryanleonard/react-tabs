@@ -16,5 +16,5 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Of view a live version at [https://bryanleonard.github.io/react-tabs](https://bryanleonard.github.io/react-tabs)
+Or view a live version at [https://bryanleonard.github.io/react-tabs](https://bryanleonard.github.io/react-tabs)
 
