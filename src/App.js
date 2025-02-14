@@ -23,6 +23,13 @@ const tabContent = [
 		'Microwave Peanut Butter for Easy Spreading – Smooth moves only.',
 		'Make Your Bed Right Away – Because future you will high-five past you.'
 	],
+	[
+		'The Paradox of Choice – The more options you have, the harder it is to choose. Ever wonder why you struggle to pick a show on Netflix?',
+		'The Monty Hall Problem – Switching doors in a game show gives you better odds, but most people don’t believe it.',
+		'The Ship of Theseus – If you replace every part of an object over time, is it still the same object?',
+		'Zeno’s Paradox – If you keep halving the distance to a goal, do you ever really arrive?',
+		'The Double-Slit Experiment – Light behaves differently when observed. Does reality change when we look at it?'
+	]
 ];
 
 export default function App() {
@@ -55,6 +62,11 @@ export default function App() {
 					<li>
 						<button className={activeTab === 2 ? 'active' : ''} onClick={() => setActiveTab(2)}>
 							Life Hacks
+						</button>
+					</li>
+					<li>
+						<button className={activeTab === 3 ? 'active' : ''} onClick={() => setActiveTab(3)}>
+							Mind Benders
 						</button>
 					</li>
 				</ul>
